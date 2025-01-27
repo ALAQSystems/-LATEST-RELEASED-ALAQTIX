@@ -1,19 +1,8 @@
 {
-  "token": "MTMzMjg5NTAyODc3MDYzOTkwMg.G255Bz.PQaXB--VuPqKtD_L73_dEDtFNn9Uj_iCTzwiF8",
-  "clientId": "1332895028770639902",
-  "guildId": "1289622334327492628",
-  "supportRoleId": "1327856275647762432",
-  "logsChannelId": "1327852876705566800",
-  "reactionPanels": [
-    {
-      "emoji": "🔧",
-      "topic": "Tech Support"
-    },
-    {
-      "emoji": "❓",
-      "topic": "General Inquires"
-    }
-  ],
-  "ticketTopic": "❓ | General Inquires",
-  "ticketEmbedChannelId": "1327851183238418456"
+  "token": "Replace w ur token",
+  "clientId": "replace",
+  "guildId": "replace",
+  "supportRoleId": "replace",
+  "logsChannelId": "replace",
+  "ticketEmbedChannelId": "replace"
 }
